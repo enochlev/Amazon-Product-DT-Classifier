@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataFormatAdjuster": {
+      "commandName": "Project",
+      "commandLineArgs": "-t \"G:\\NNU Senior Year\\Spring Semester\\COMP4330\\SemesterProject\\GitHub\\NNU-Machine-Learning-2020\\Training_Data\\Training Data.csv\" \"G:\\NNU Senior Year\\Spring Semester\\COMP4330\\SemesterProject\\GitHub\\NNU-Machine-Learning-2020\\Training_Data\""
+    }
+  }
+}

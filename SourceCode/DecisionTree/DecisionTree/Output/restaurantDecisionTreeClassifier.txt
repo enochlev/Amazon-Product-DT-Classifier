@@ -1,0 +1,17 @@
+Pat=None:
+	No
+Pat=Some:
+	Yes
+Pat=Full:
+	Hun=Yes:
+		Type=Thai:
+			Fri=Yes:
+				Yes
+			Fri=No:
+				No
+		Type=Burger:
+			Yes
+		Type=Italian:
+			No
+	Hun=No:
+		No

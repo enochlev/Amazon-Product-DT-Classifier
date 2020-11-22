@@ -1,0 +1,4 @@
+Wind=Calm
+	Play
+Wind=Windy
+	Play

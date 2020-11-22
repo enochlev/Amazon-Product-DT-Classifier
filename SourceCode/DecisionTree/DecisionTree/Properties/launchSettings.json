@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DecisionTree": {
+      "commandName": "Project",
+      "commandLineArgs": "-c \"G:\\NNU Senior Year\\Spring Semester\\COMP4330\\SemesterProject\\GitHub\\NNU-Machine-Learning-2020\\Classifiers\\Training Data_Trainer_Classifier.txt\" \"G:\\NNU Senior Year\\Spring Semester\\COMP4330\\SemesterProject\\GitHub\\NNU-Machine-Learning-2020\\Training_Data\\Training Data_Tester.txt\" \"G:\\NNU Senior Year\\Spring Semester\\COMP4330\\SemesterProject\\GitHub\\NNU-Machine-Learning-2020\\ClassifiedData\" No"
+    }
+  }
+}
